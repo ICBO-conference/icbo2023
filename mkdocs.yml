@@ -1,5 +1,5 @@
 site_name: "ICBO: International Conference on Biomedical Ontology"
-# repo_url: add info to link to your github repository
+repo_url: https://github.com/ICBO-conference/icbo2023
 theme:
   name: readthedocs
 nav:
