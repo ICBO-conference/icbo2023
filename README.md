@@ -3,7 +3,7 @@
 This repository hosts to documents for the [ICBO 2023 website](https://icbo-conference.github.io/icbo2023/).  The website is built using `mkdocs` and the deployment of the website is controlled using the github action `.github/workflows/build-deploy-documentation.yaml`. The github action has been configured to run if any changes are made to `mkdocs.yaml`, files in the `docs/` or `docs/images/` directories, or after a pull request is merged. This allows to closely track the repository history using pull requests (if desired). 
 
 ## Add github.io website  
-To make website available, you have to associate the repository with a `github.io` website (e.g., [https://icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022)). The is done be clicking on the settings icon next to **About**:  
+To make website available, you have to associate the repository with a `github.io` website (e.g., [https://icbo-conference.github.io/icbo2023](https://icbo-conference.github.io/icbo2023)). The is done be clicking on the settings icon next to **About**:  
 ![about-setting-icon](readme-images/github-repo-about-setting.png)
 
 and then setting the necessary information for **Webpage**:  
@@ -12,7 +12,7 @@ and then setting the necessary information for **Webpage**:
 
 ## Github mkdocs actions configuration
 
-The template is set up to use [mkdocs](https://www.mkdocs.org/) to configure a `github.io` website. The deployment of the website is controlled using the GitHub action `.github/workflows/build-deploy-documentation.yaml`. The GitHub action has been configured to run if any changes are made to mkdocs.yaml, files in the `docs/`, `docs/images/`, `docs/papers/`, `docs/slides/`, or `docs/flash-talks/` directories, or after a pull request is merged. Using pull requests allows you to closely track changes made to the repository (if desired). The [icbo2022 conference repository](https://github.com/ICBO-conference/icbo2022) is an example of how a repository can be configured using [mkdocs](https://www.mkdocs.org/).
+The template is set up to use [mkdocs](https://www.mkdocs.org/) to configure a `github.io` website. The deployment of the website is controlled using the GitHub action `.github/workflows/build-deploy-documentation.yaml`. The GitHub action has been configured to run if any changes are made to mkdocs.yaml, files in the `docs/`, `docs/images/`, `docs/papers/`, `docs/slides/`, or `docs/flash-talks/` directories, or after a pull request is merged. Using pull requests allows you to closely track changes made to the repository (if desired). The [icbo2023 conference repository](https://github.com/ICBO-conference/icbo2023) is an example of how a repository can be configured using [mkdocs](https://www.mkdocs.org/).
 
 ## Default content 
 
