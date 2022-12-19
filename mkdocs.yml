@@ -1,5 +1,7 @@
-site_name: "ICBO: International Conference on Biomedical Ontology"
-repo_url: https://github.com/ICBO-conference/icbo2023/tree/main/docs
+site_name: "ICBO 2023: International Conference on Biomedical Ontology"
+site_url: https://icbo-conference.github.io/icbo2023
+repo_url: https://github.com/ICBO-conference/icbo2023
+edit_uri: '?query=root/docs/'
 theme:
   name: readthedocs
 nav:
