@@ -1,0 +1,19 @@
+site_name: "ICBO: International Conference on Biomedical Ontology"
+# repo_url: add info to link to your github repository
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Call for Submissions: call-for-submissions.md
+  - Keynote Speakers: keynote-speakers.md
+  # - Journal of Biomedical Semantics ICBO Thematic Series: submit-jbms-icbo.md # uncomment to see page on website
+  - Workshops & Tutorials: workshops-and-tutorials.md
+  - Conference Proceeding Publication Requirements: proceeding-publication-requirements.md
+  - Registration: icbo-registration.md
+  - ICBO Hotel Options: icbo-hotels.md
+  - Travel to ICBO:  icbo-travel.md
+  - Schedule: icbo-schedule.md
+  - Papers and Poster Abstracts: papers-and-poster-abstracts.md
+  - Contact Information: contact-information.md
+  - Co-organizers: co-organizers.md
+  - Program Committee: program-committee.md
