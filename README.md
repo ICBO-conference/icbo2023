@@ -1,34 +1,6 @@
-# ICBO Template
-This repository is a template for creating ICBO conference repositories. Instructions for using this template to create a specific ICBO conference repository is included below. For more speci instructions, see the [GitHub instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for how to create a repository from a template.
+# ICBO-2023: International Conference on Biomedical Ontology
 
-Once your repository has been created, you are free to configure your ICBO repisitory as you desire. Any suggestions or contributions on how to make the instructions for (this) the template repository are welcome. 
-
-## Using the template
-
-To create your repository, start by clicking the **Use this template** button:
-
-![use-this-template-button](readme-images/github-use-template-button.png)
-
-Next, fill in the name of your repository:
-
-![use-template-repo-name](readme-images/github-use-template-repo-name.png) 
-
-Be sure to mark your repository as **Public** and **Include all branches**:
-
-![use-template-config.](readme-images/github-use-template-config.png)
-
-This will deploy the website on the `gh-pages` branch of your repository. If for some reason the deployment branch is not in your repository, you can add it by going into the repository settings:
-
-![repo-settings](readme-images/github-repo-settings.png)
-
-selecting the **pages** content:
-
-![setting-pages](readme-images/github-setting-pages.png)
-
-and choosing/adding the branch on which to deploy the website:
-
-![pages-setting-gh-pages-branch](readme-images/github-pages-setting-gh-pages-branch.png)
-
+This repository hosts to documents for the [ICBO 2023 website](https://icbo-conference.github.io/icbo2023/).  The website is built using `mkdocs` and the deployment of the website is controlled using the github action `.github/workflows/build-deploy-documentation.yaml`. The github action has been configured to run if any changes are made to `mkdocs.yaml`, files in the `docs/` or `docs/images/` directories, or after a pull request is merged. This allows to closely track the repository history using pull requests (if desired). 
 
 ## Add github.io website  
 To make website available, you have to associate the repository with a `github.io` website (e.g., [https://icbo-conference.github.io/icbo2022](https://icbo-conference.github.io/icbo2022)). The is done be clicking on the settings icon next to **About**:  
