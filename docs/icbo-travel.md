@@ -24,7 +24,7 @@ In the meantime, you can check some options [here](https://www.decolar.com/accom
 
 ## Local Attractions
 Brasília is a world national heritage buildings registered in the Unesco’s World Heritage Site. The city’s initial project was conceived by urban planner Lúcio Costa and the main buildings were designed by architect Oscar Niemeyer. Thus, there are many monuments and other attractions to be visited in the capital.
-Take a look in both option below to see our tourist attractions:
-* [Tourism](https://www.df.gov.br/sightseeing-tour-in-brasilia/) in Brasilia 
+Take a look in both option below to see our tourist attractions:  
+* [Tourism](https://www.df.gov.br/sightseeing-tour-in-brasilia/) in Brasilia  
 * [Tourist](https://www.turismo.df.gov.br/wp-conteudo/uploads/2017/12/Guia-Roteiros-Brasilia-Ingles.pdf) Guide  
 
