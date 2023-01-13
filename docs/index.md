@@ -16,6 +16,8 @@ This year's ICBO conference has ended. See this [PDF](survey/ICBO2022-survey-res
 
 The 2023 International Conference of Biomedical Ontology (ICBO 2023) will be held in 2023 at the Campus Darcy Ribeiro of University of Brasilia - [UNB](https://international.unb.br), Brasilia, DF, Brazil.
 
+| ![UnB](./images/unb-1.jpg) | ![UnB](./images/25abr2011_campus-darcy_betomonteiro.jpg) | 
+
 ## Conference Dates
 - **August 28th to September 1st** (Monday-Friday)
 - Workshops and Tutorials: TBD
