@@ -11,7 +11,7 @@
 
 ## Workshops/tutorial Chairs
 * Asiyah Lin (National Institutes of Health (NIH), USA)
-* Andrey Soares (University of Colorado Anschutz, USA)
+* Andrey Soares (University of Colorado Anschutz Medical Campus, USA)
 
 ## Journal of Biomedical Semantics ICBO Thematic Series Option
 * Stefan Schulz (Medizinische Universität Graz, Austria)
