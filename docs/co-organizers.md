@@ -7,7 +7,7 @@
 * Dalton Lopes Martins (University of Brasilia, Brazil)
 
 ## Program Committee Chairs
-* TBD
+* Luis M. Machado (Centre for Interdisciplinary Studies, University of Coimbra)
 
 ## Workshops/tutorial Chairs
 * Asiyah Lin (National Institutes of Health (NIH), USA)
@@ -17,12 +17,12 @@
 * Stefan Schulz (Medizinische Universität Graz, Austria)
 * Amanda Damasceno de Souza (FUMEC University, Brazil)
 
-## Proceedings Chairs and 
+## Proceedings Chairs  
 * Jeanne Louize Emygdio (Pontifical Catholic University of Minas Gerais, Brazil)
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
 
 ## Publicity Chairs
-* TBD
+* Amanda Damasceno de Souza (FUMEC University, Brazil)  
 
 ## Website Chair
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
