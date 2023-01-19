@@ -2,7 +2,7 @@
 
 ## Barry Smith 
 
-<img src='../images/BS-aruba1-2021.jpg' align='left' style='margin:10px 20px 0px 0px' />
+<img src='../images/BS-aruba1-2021.jpg' align='left' style='margin:10px 20px 0px 0px' /> 
 
 AI and the Ontology of Systems
 
