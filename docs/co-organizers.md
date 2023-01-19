@@ -7,7 +7,8 @@
 * Dalton Lopes Martins (University of Brasilia, Brazil)
 
 ## Program Committee Chairs
-* Luis M. Machado (Centre for Interdisciplinary Studies, University of Coimbra)
+* Luis M. Machado (Centre for Interdisciplinary Studies, University of Coimbra) 
+* Mathias Brochhausen (University of Arkansas for Medical Sciences, USA) 
 
 ## Workshops/tutorial Chairs
 * Asiyah Lin (National Institutes of Health (NIH), USA)
@@ -21,10 +22,10 @@
 * Jeanne Louize Emygdio (Pontifical Catholic University of Minas Gerais, Brazil)
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
 
-## Publicity Chairs
+## Publicity Chairs 
 * Amanda Damasceno de Souza (FUMEC University, Brazil)  
 
-## Website Chair
+## Website Chair 
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
 * William Duncan (University of Florida, USA)
 
