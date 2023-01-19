@@ -24,5 +24,5 @@ The 2023 International Conference of Biomedical Ontology (ICBO 2023) will be hel
 - Main conference: TBD  
 
 ## [Keynote Speakers](keynote-speakers.md)
-- [Barry Smith](https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/smith-b.html) 
+- [Barry Smith](https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/smith-b.html) University at Buffalo 
 
