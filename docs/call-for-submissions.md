@@ -23,6 +23,9 @@ Ontobras will share Keynotes and workshops and tutorials)
 ## Venue
 [UnB](https://international.unb.br), University of Brasilia 
 
+### Format
+Face-to-face only. If necessary, we can have remotely keynote presentation.
+
 ## Call for Workshops and Tutorials
 - Proposals (1-2 pages) due **April 03**, 2023, notification **May 08**, 2023.  
   - Workshops and Tutorials: Half or Full day workshops
