@@ -1,2 +1,3 @@
 # Program Committee
-Fill in information about the program committee.
+
+Invitations will be sent soon.

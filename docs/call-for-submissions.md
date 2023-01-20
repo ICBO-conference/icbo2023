@@ -3,33 +3,49 @@
 The 14th International Conference on Biomedical Ontology, ICBO 2023
 
 ## Conference Dates 
-- **August 28th to September 1st** (Monday-Friday)
-  - Workshops: August, 2023
-  - Main conference: August, 2023 
+- **August 28th to September 1st** (Monday-Friday) See sketch bellow
+  - **Workshops**: August 28-30, 2023 (Just until morning of day 30) We will have parallel sessions, it is possible untill 6 rooms.
+  - **Main conference**: August 30 (afternoon) September 01, 2023 
+  - **Satellite conference (Ontobras)**: August 28 - September 01, 2023 
+Ontobras will share Keynotes and workshops and tutorials)
+
+| Calendar Sketch ICBO 2023 | August 28 | August 29 | August 30 | August 31 | September 1 |
+|---------------------------|-----------|-----------|-----------|-----------|-------------|
+| 8:00-8:30 | Breakfast | Breakfast | Breakfast | Breakfast | Breakfast |
+| 8:30-10:15 | Workshops and Tutorials | Workshops and Tutorials | Workshops and Tutorials | Keynote talk-2 | Technical Session |
+| 10:15-10:30 | Coffee Break | Coffee Break | Coffee Break | Coffee Break | Coffee Break |
+| 10:30-12:30 | Workshops and Tutorials | Workshops and Tutorials | Workshops and Tutorials | Technical Session | Technical Session |
+| 13:30-15:30 | Workshops and Tutorials | Workshops and Tutorials | Welcome and Keynote talk-1 | Technical Session | Journal Technical Session | 
+| 15:30-15:45 | Coffee Break | Coffee Break | Coffee Break | Fast talk (Poster) | Coffee Break |
+| 15:45-17:30 | Workshops and Tutorials | Workshops and Tutorials | Technical Session | Coffee Breaks and Poster Session | Keynote talk-3 and Closing | 
+| TBD |  |  | Possible Conference Dinner |  |  |
 
 ## Venue
 [UnB](https://international.unb.br), University of Brasilia 
 
 ## Call for Workshops and Tutorials
-- Proposals (1-2 pages) due **March 31**, 2023, notification **April 15**, 2023.  
-- Workshops: Half or Full day workshops
-  <!-- - Specifically looking for a half-day NLP workshop
-  - Specifically looking for a half-day machine learning workshop
-  - Specifically looking for a half-day Social Determinants of Health (SDOH) workshop
-  - Other topics are welcome -->
-- Tutorials: Half or Full day tutorials
-<!-- - Software Demos: 15-30 minute demos, due **June 15th**  -->
+- Proposals (1-2 pages) due **April 03**, 2023, notification **May 08**, 2023.  
+  - Workshops and Tutorials: Half or Full day workshops
+  - Specifically looking for an Introductory Domain Ontology Building (using top-level ontology) tutorial
+  - Specifically looking for a Ontology Governance and Interoperability workshop/tutorial
+  - Specifically looking for a full/half-day NLP workshop/tutorial
+  - Specifically looking for a full/half-day machine learning workshop
+  - Other topics are welcome
+  - Full-day workshops/tutorials could be in two half-day.
+
+## Call for Software Demos 
+- Software Demos: 15-30 minute demos, due **June 15th** 
 - Submission link: [https://easychair.org/conferences/?conf=icbo2023](https://easychair.org/conferences/?conf=icbo2023)
-- **Note:** Workshops, Tutorials, and Demos can be held in a hybrid or virtual format.  
+- **Note:** Workshops, Tutorials, and Demos can be held in a person.  
 
 ## Call for ICBO Conference Papers and Abstracts 
-- Full length papers (6-10 pages) due **May 30th**, notification **June 28**.
-- Short papers up to 5 pages, due **May 30th**, notification **June 28**.
-- Poster Abstracts: 1 page extended abstract format, with limited references, due **August 25**, rolling notification starting **July 15**.
+- Full length papers (6-10 pages) due **May 31th**, notification **June 29**.
+- Short papers up to 5 pages, due **May 31th**, notification **June 29**.
+- Poster Abstracts: 1 page extended abstract format, with limited references, due **August 29**, rolling notification starting **July 15**.
 - Submission link: [https://easychair.org/conferences/?conf=icbo2023](https://easychair.org/conferences/?conf=icbo2023)
 
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
-Submission date: **May 13**  
+Submission date: **May 31**  
 In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by **May 13**, at the latest, for full consideration for ICBO 2023. Articles should be submitted directly to the Journal of Biomedical. See the [Journal of Biomedical Semantics ICBO Thematic Series](submit-jbms-icbo.md) page for submission details. 
 
 ## Submission Format

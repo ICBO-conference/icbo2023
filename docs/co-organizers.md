@@ -1,9 +1,9 @@
 # Organization – ICBO 2023
 
-## General Chairs
+## General Chair
 * Fernanda Farinelli (University of Brasília, Brazil)
 
-## Local Chairs:
+## Local Chair:
 * Dalton Lopes Martins (University of Brasilia, Brazil)
 
 ## Program Committee Chairs
@@ -37,5 +37,21 @@
 
 ## Volunteer Support
 * Alexander Diehl (University at Buffalo, USA)
+* Marcia Ito (FATEC-SP) 
+
+# ONTOBRAS Team
+
+## General Chairs
+* Luan Fonseca Garcia  
+* Rita Berardi  
+
+## Program Committee Chairs
+* Monalessa  
+* Joao Moreira  
+
+## WTDO Chairs
+* Amanda Damasceno de Souza  
+* Claudenir  
 
 ![UnB](./images/unb_fci_extenso_logo.png) 
+
