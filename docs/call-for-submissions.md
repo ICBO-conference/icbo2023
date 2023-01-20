@@ -9,7 +9,7 @@ The 14th International Conference on Biomedical Ontology, ICBO 2023
   - **Satellite conference (Ontobras)**: August 28 - September 01, 2023 
 Ontobras will share Keynotes and workshops and tutorials)
 
-| Calendar Sketch ICBO 2023 | August 28 | August 29 | August 30 | August 31 | September 1 |
+<!-- | Calendar Sketch ICBO 2023 | August 28 | August 29 | August 30 | August 31 | September 1 |
 |---------------------------|-----------|-----------|-----------|-----------|-------------|
 | 8:00-8:30 | Breakfast | Breakfast | Breakfast | Breakfast | Breakfast |
 | 8:30-10:15 | Workshops and Tutorials | Workshops and Tutorials | Workshops and Tutorials | Keynote talk-2 | Technical Session |
@@ -18,13 +18,10 @@ Ontobras will share Keynotes and workshops and tutorials)
 | 13:30-15:30 | Workshops and Tutorials | Workshops and Tutorials | Welcome and Keynote talk-1 | Technical Session | Journal Technical Session | 
 | 15:30-15:45 | Coffee Break | Coffee Break | Coffee Break | Fast talk (Poster) | Coffee Break |
 | 15:45-17:30 | Workshops and Tutorials | Workshops and Tutorials | Technical Session | Coffee Breaks and Poster Session | Keynote talk-3 and Closing | 
-| TBD |  |  | Possible Conference Dinner |  |  |
+| TBD |  |  | Possible Conference Dinner |  |  | -->
 
 ## Venue
 [UnB](https://international.unb.br), University of Brasilia 
-
-### Format
-Face-to-face only. If necessary, we can have remotely keynote presentation.
 
 ## Call for Workshops and Tutorials
 - Proposals (1-2 pages) due **April 03**, 2023, notification **May 08**, 2023.  

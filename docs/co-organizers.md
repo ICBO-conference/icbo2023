@@ -39,19 +39,5 @@
 * Alexander Diehl (University at Buffalo, USA)
 * Marcia Ito (FATEC-SP) 
 
-# ONTOBRAS Team
-
-## General Chairs
-* Luan Fonseca Garcia  
-* Rita Berardi  
-
-## Program Committee Chairs
-* Monalessa  
-* Joao Moreira  
-
-## WTDO Chairs
-* Amanda Damasceno de Souza  
-* Claudenir  
-
 ![UnB](./images/unb_fci_extenso_logo.png) 
 
