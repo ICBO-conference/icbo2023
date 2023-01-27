@@ -20,33 +20,39 @@ Ontobras will share Keynotes and workshops and tutorials)
 | 15:45-17:30 | Workshops and Tutorials | Workshops and Tutorials | Technical Session | Coffee Breaks and Poster Session | Keynote talk-3 and Closing | 
 | TBD |  |  | Possible Conference Dinner |  |  | -->
 
-## Venue
-[UnB](https://international.unb.br), University of Brasilia 
-
 ## Call for Workshops and Tutorials
-- Proposals (1-2 pages) due **April 03**, 2023, notification **May 08**, 2023.  
-  - Workshops and Tutorials: Half or Full day workshops
-  - Specifically looking for an Introductory Domain Ontology Building (using top-level ontology) tutorial
-  - Specifically looking for a Ontology Governance and Interoperability workshop/tutorial
-  - Specifically looking for a full/half-day NLP workshop/tutorial
-  - Specifically looking for a full/half-day machine learning workshop
-  - Other topics are welcome
-  - Full-day workshops/tutorials could be in two half-day.
+Submission deadline: April 3, 2023 
+Notification of acceptance: May 8, 2023 
+Authors registration deadline: July 3, 2023 
+Proposals (1-2 pages) due April 3, 2023, notification May 8, 2023.
+Workshops: Half or Full day workshops
+Tutorials: Half or Full day tutorials
+We are specifically looking for following topics for workshops:
+- NLP, ontology aware machine learning or AI, Social Determinants of Health (SDOH), Fast Healthcare Interoperability Resources (FHIR) workshop/tutorial, infectious and immune-mediated disease, and FAIR ontology harmonization. 
+We are specifically looking for following topics for tutorials:
+- an Introductory Domain Ontology Building (using top-level ontology) tutorial
+- an Ontology Building with OBO Foundry tutorial
+- an Ontology Governance and Interoperability workshop/tutorial
+Other topics are welcome.
+<!-- Submission link: [https://easychair.org/conferences/?conf=icbo2022](https://easychair.org/conferences/?conf=icbo2022) -->
+**Note**: Workshops, Tutorials, and Demos can be held in a hybrid or virtual format.
 
-## Call for Software Demos 
+
+<!-- ## Call for Software Demos 
 - Software Demos: 15-30 minute demos, due **June 15th** 
 - Submission link: [https://easychair.org/conferences/?conf=icbo2023](https://easychair.org/conferences/?conf=icbo2023)
-- **Note:** Workshops, Tutorials, and Demos can be held in a person.  
+- **Note:** Workshops, Tutorials, and Demos can be held in a person.   -->
 
 ## Call for ICBO Conference Papers and Abstracts 
 - Full length papers (6-10 pages) due **May 31th**, notification **June 29**.
 - Short papers up to 5 pages, due **May 31th**, notification **June 29**.
-- Poster Abstracts: 1 page extended abstract format, with limited references, due **August 29**, rolling notification starting **July 15**.
+- Poster Abstracts: 1 page extended abstract format, with limited references, due **June 15**, rolling notification starting **June 29**.
 - Submission link: [https://easychair.org/conferences/?conf=icbo2023](https://easychair.org/conferences/?conf=icbo2023)
 
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
-Submission date: **May 31**  
-In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by **May 13**, at the latest, for full consideration for ICBO 2023. Articles should be submitted directly to the Journal of Biomedical. See the [Journal of Biomedical Semantics ICBO Thematic Series](submit-jbms-icbo.md) page for submission details. 
+Journal Track: Submission date: **March 31st**. 
+In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), manuscripts submitted to the ICBO Thematic Series of this journal will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by March 31st at the latest for full consideration for the conference. Later submission is possible, but the authors bear the risk that the review will not be available in time. 
+Journal track manuscripts are submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines. Authors must select the ICBO thematic series during the submission process. 
 
 ## Submission Format
 All submissions should be in Adobe Portable Document Format (PDF) and should follow the [CEUR-ART template](./papers/CEUR-Template-1col.docx), single column. Microsoft Office Word, Open Office and LaTeX templates can be downloaded at [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip) 
@@ -56,10 +62,10 @@ There is also an Overleaf Template available here: [https://www.overleaf.com/lat
 
 Submissions to the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/) should follow their [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines).
 
-## Poster preparation guideline
+<!-- ## Poster preparation guideline
 The poster boards are self-standing with legs, four feet wide by three feet high (landscape). The fabric is grey on one sidle and black on the other. Light-weight posters, photos, and couments can be affixed to the displays using thumbtacks.
 
-Therefore, the maximum size of your poster will be 4’ wide by 3’ high. 
+Therefore, the maximum size of your poster will be 4’ wide by 3’ high.  -->
 
 ## ICBO 2023 theme: The role of Ontologies in Artificial Intelligence and Machine Learning 
 
