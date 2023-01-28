@@ -1,2 +1,4 @@
 # Workshops & Tutorials
-Fill in information about workshops and tutorials.
+We are working to define. 
+
+![UnB](./images/unb_fci_extenso_logo.png) 

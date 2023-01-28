@@ -46,7 +46,7 @@ Other topics are welcome.
 ## Call for ICBO Conference Papers and Abstracts 
 - Full length papers (6-10 pages) due **May 31th**, notification **June 29**.
 - Short papers up to 5 pages, due **May 31th**, notification **June 29**.
-- Poster Abstracts: 1 page extended abstract format, with limited references, due **June 15**, rolling notification starting **June 29**.
+- Poster Abstracts: up 2 pages extended abstract format, with limited references, due **May 31st**, notification **June 29**.
 - Submission link: [https://easychair.org/conferences/?conf=icbo2023](https://easychair.org/conferences/?conf=icbo2023)
 
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
@@ -91,3 +91,4 @@ This includes ontologies in domains such as:
 icbo2023{at}gmail.com   
 
 
+![UnB](./images/unb_fci_extenso_logo.png) 

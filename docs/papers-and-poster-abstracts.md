@@ -1,2 +1,4 @@
 # Papers and Poster Abstracts
-Fill in information about papers and poster abstracts.
+We are working to define.
+
+![UnB](./images/unb_fci_extenso_logo.png) 
