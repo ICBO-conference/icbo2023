@@ -3,7 +3,7 @@
 The focus of our 2023 conference is ***"The role of Ontologies in Artificial Intelligence and Machine Learning"***.
 
 ## Conference Dates 
-- **August 28th to September 1st** (Monday-Friday) See sketch bellow
+- **August 28th to September 1st** (Monday-Friday) 
 - **Workshops**: August 28-30, 2023 (until noon of day 30) 
 - **Main conference**: August 30 (afternoon) September 01, 2023 
 - **Workshops and tutorials take place on site in conjunction with [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)**
@@ -88,7 +88,7 @@ Areas of particular interest to ICBO 2023 include, but are not limited to, the f
 - Ontologies and the FAIR data principles
 - Ontology tools: visualization, building, reasoning, evaluation, discovery of knowledge
 
-## Contact informationFurther inquiries
+## Further inquiries
 
 Please direct all further questions to icbo2023{at}gmail.com   
 
