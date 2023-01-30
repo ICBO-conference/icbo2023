@@ -48,7 +48,7 @@ All submissions should be in Adobe Portable Document Format (PDF) and should fol
 <br><br>
 There is also an Overleaf Template available here: [https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)    
 
-### Journal of Biomedical Semantics ICBO Thematic Series Option
+## Journal of Biomedical Semantics ICBO Thematic Series Option
 **Journal Track submission date: *March 31st***. <br>
 - In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), manuscripts submitted to the ICBO Thematic Series of this journal will be published immediately after acceptance and presented in the main ICBO conference following acceptance. 
 - For this track, we suggest submission by **March 31st** at the latest for **full consideration for the conference**. <br>
