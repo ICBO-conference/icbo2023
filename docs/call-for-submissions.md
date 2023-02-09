@@ -27,24 +27,29 @@ The focus of our 2023 conference is ***"The role of Ontologies in Artificial Int
 - **Workshops and tutorials** could be Half or Full day (3 and 6 hours respectively)
 ### Workshops
 We are specifically looking for following topics for **workshops**:
-- Natural Language Processing (NLP)
-- Ontology aware machine learning or AI
-- Social Determinants of Health (SDOH)
-- Fast Healthcare Interoperability Resources (FHIR)
-- Infectious and immune-mediated disease
-- FAIR ontology harmonization. 
-- Ontology Governance and Interoperability
+
+- Natural Language Processing (NLP) 
+- Ontology aware machine learning or AI 
+- Social Determinants of Health (SDOH) 
+- Fast Healthcare Interoperability Resources (FHIR) 
+- Infectious and immune-mediated disease 
+- FAIR ontology harmonization 
+- Ontology Governance and Interoperability 
+
 ### Tutorials
 We are specifically looking for following topics for ***tutorials***:
-- Introductory Domain Ontology Building (using top-level ontology) tutorial
-- Ontology Building with OBO Foundry tutorial
-- Ontology Governance and Interoperability
-- Fast Healthcare Interoperability Resources (FHIR)
-- Other topics are welcome.
+
+- Introductory Domain Ontology Building (using top-level ontology) tutorial 
+- Ontology Building with OBO Foundry tutorial 
+- Ontology Governance and Interoperability 
+- Fast Healthcare Interoperability Resources (FHIR) 
+- Other topics are welcome 
+
 ### Software demo
-Specifically looking for demos on ontology supported data curation, ontology supported semantic search UI/UX design.
-- 15-30 minute demos
-- Other topics are welcome.
+Specifically looking for demos on ontology supported data curation, ontology supported semantic search UI/UX design. 
+
+- 15-30 minute demos 
+- Other topics are welcome 
 
 <!-- **Note**: Workshops, Tutorials, and Demos can be held in-person, hybrid or virtual/online format. -->
 <!-- **Note:** Workshops, Tutorials, and Demos can be held in a person.   -->
