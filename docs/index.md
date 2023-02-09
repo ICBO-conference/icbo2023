@@ -1,5 +1,5 @@
 <!-- # ICBO 2023: International Conference on Biomedical Ontology -->
-# <img align="left" src="../images/icbo2023_logo.jpg" width="30%" /> 14ª International Conference on Biomedical Ontology
+# <img align="left" src="./images/icbo2023_logo.jpg" width="30%" /> 14ª International Conference on Biomedical Ontology
 Theme of ICBO 2023: **"The role of Ontologies in Artificial Intelligence and Machine Learning"**.
 
 - ICBO 2023 will be held with the 16th Seminar on Ontology Research in Brazil – [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)
@@ -19,7 +19,7 @@ The **14ª International Conference of Biomedical Ontology (ICBO 2023)** will be
 <!-- ![UnB](./images/unb-1.jpg) -->
 
 <p align="center">
-  <img src="../images/unb-1.jpg" width="50%" /> <br>
+  <img src="./images/unb-1.jpg" width="50%" /> <br>
   <a href="https://international.unb.br/"><i>University of Brasilia</i></a><br>
   Campus Universitário Darcy Ribeiro, Brasília-DF | Postal Code 70910-900
 </p>
