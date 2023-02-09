@@ -1,5 +1,6 @@
 <!-- # ICBO 2023: International Conference on Biomedical Ontology -->
-# <img src="../images/icbo2023_logo.jpg" width="30%" /> 14ª International Conference on Biomedical Ontology
+<img src="../images/icbo2023_logo.jpg" width="30%" />
+# 14ª International Conference on Biomedical Ontology
 Theme of ICBO 2023: **"The role of Ontologies in Artificial Intelligence and Machine Learning"**.
 
 - ICBO 2023 will be held with the 16th Seminar on Ontology Research in Brazil – [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)
