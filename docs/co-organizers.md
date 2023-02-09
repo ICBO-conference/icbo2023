@@ -1,9 +1,10 @@
-# Organization – ICBO 2023
+<!-- # Organization – ICBO 2023 <img align="right" src="./images/icbo2023_logo.png" width="30%" /> -->
+# <img align="left" src="./images/icbo2023_logo.jpg" width="30%" /> Organization – ICBO 2023
 
 ## General Chair
 * Fernanda Farinelli (University of Brasília, Brazil)
 
-## Local Chair:
+## Local Chair
 * Dalton Lopes Martins (University of Brasilia, Brazil)
 
 ## Program Committee Chairs
@@ -29,15 +30,23 @@
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
 * William Duncan (University of Florida, USA)
 
-## Sponsor organizations
-* TBD
+<!-- ## Sponsor organizations
+* TBD -->
 
 ## Administrative Support
-* Faculty of Information Science at the University of Brasilia
+<!-- * [*Faculty of Information Science at the University of Brasilia*](http://www.fci.unb.br/)<br> -->
+<!-- ![UnB](./images/unb_fci_extenso_logo.png) -->
+<p align="center">
+  <a href="http://www.fci.unb.br/"><i>Faculty of Information Science at the University of Brasilia</i></a><br>
+  <img src="./images/unb_fci_extenso_logo.png" width="30%" />
+</p>
+
+## Organization Support
+<p align="center">
+  <a href="https://alma.hsl.org.br//"><i>Alma Sírio-Libanês</i></a><br>
+  <img src="./images/alma_hsl_logo.png" width="30%" />
+</p>
 
 ## Volunteer Support
 * Alexander Diehl (University at Buffalo, USA)
 * Marcia Ito (FATEC-SP) 
-
-![UnB](./images/unb_fci_extenso_logo.png) 
-
