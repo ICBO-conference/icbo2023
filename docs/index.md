@@ -48,5 +48,6 @@ This year's ICBO conference has ended. See this [PDF](survey/ICBO2022-survey-res
 
 <!-- ![UnB](./images/unb_fci_extenso_logo.png) -->
 
-
-	<img src="../images/unb_fci_extenso_logo.png" height="80"> </img>
+<p>
+	<img src="./images/unb_fci_extenso_logo.png" height="80"> </img>
+</p>
