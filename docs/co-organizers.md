@@ -1,5 +1,5 @@
 <!-- # Organization – ICBO 2023 <img align="right" src="./images/icbo2023_logo.png" width="30%" /> -->
-# <img align="left" src="../images/icbo2023_logo.jpg" width="30%" /> Organization – ICBO 2023
+# <img align="left" src="../images/icbo2023_logo.jpg" width="25%" /> Organization – ICBO 2023
 
 ## General Chair
 * Fernanda Farinelli (University of Brasília, Brazil)
