@@ -44,7 +44,7 @@
 ## Organization Support
 <p align="center">
   <a href="https://alma.hsl.org.br//"><i>Alma Sírio-Libanês</i></a><br>
-  <img src="../images/alma_hsl_logo.png" width="30%" />
+  <img src="../images/alma_hsl_logo.jpg" width="30%" />
 </p>
 
 ## Volunteer Support
