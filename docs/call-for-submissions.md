@@ -24,7 +24,7 @@ The focus of our 2023 conference is ***"The role of Ontologies in Artificial Int
 
 - **Workshops and tutorials** could be Half or Full day (3 and 6 hours respectively)
 ### Workshops
-We are specifically looking for following topics for ***workshops***:
+We are specifically looking for following topics for **workshops**:
    - Natural Language Processing (NLP)
    - Ontology aware machine learning or AI
    - Social Determinants of Health (SDOH)
