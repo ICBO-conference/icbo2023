@@ -47,6 +47,6 @@ A latest playlist of the conference's recordings is available on [YouTube](https
 This year's ICBO conference has ended. See this [PDF](survey/ICBO2022-survey-results-final.pdf) to see participant feedback. -->
 
 <!-- ![UnB](./images/unb_fci_extenso_logo.png) -->
-##
+
 
 	<img src="../images/unb_fci_extenso_logo.png" height="80"> </img>
