@@ -34,15 +34,15 @@ We are specifically looking for following topics for **workshops**:
 - Ontology Governance and Interoperability
 ### Tutorials
 We are specifically looking for following topics for ***tutorials***:
-   - Introductory Domain Ontology Building (using top-level ontology) tutorial
-   - Ontology Building with OBO Foundry tutorial
-   - Ontology Governance and Interoperability
-   - Fast Healthcare Interoperability Resources (FHIR)
-   - Other topics are welcome.
+- Introductory Domain Ontology Building (using top-level ontology) tutorial
+- Ontology Building with OBO Foundry tutorial
+- Ontology Governance and Interoperability
+- Fast Healthcare Interoperability Resources (FHIR)
+- Other topics are welcome.
 ### Software demo
 Specifically looking for demos on ontology supported data curation, ontology supported semantic search UI/UX design.
-  - 15-30 minute demos
-  - Other topics are welcome.
+- 15-30 minute demos
+- Other topics are welcome.
 
 <!-- **Note**: Workshops, Tutorials, and Demos can be held in-person, hybrid or virtual/online format. -->
 <!-- **Note:** Workshops, Tutorials, and Demos can be held in a person.   -->
