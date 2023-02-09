@@ -103,5 +103,4 @@ Please direct all further questions to [icbo2023{at}gmail.com](mailto:icbo2023@g
 <!-- ![UnB](./images/unb_fci_extenso_logo.png) --> 
 <p align="center">
   <img src="../images/unb_fci_extenso_logo.png" height="80" />
-  <img src="../images/alma_hsl_logo.jpg" height="80"  />
 </p>
