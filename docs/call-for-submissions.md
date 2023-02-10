@@ -4,9 +4,11 @@
 
 The focus of our 2023 conference is ***"The role of Ontologies in Artificial Intelligence and Machine Learning"***.
 
+
+
 # Important dates: 
-- **Conference Dates**:  August 28th to September 1st (Monday-Friday)
-- **Workshops/tutorials**: August 28-30, 2023 (until noon of day 30)
+&nbsp;&nbsp;&nbsp;&nbsp;- **Conference Dates**:  August 28th to September 1st (Monday-Friday)
+&nbsp;&nbsp;&nbsp;&nbsp;- **Workshops/tutorials**: August 28-30, 2023 (until noon of day 30)
 - **Main conference:** August 30 (afternoon) - September 01, 2023
 - **Journal Track submission deadline:** March 31st.
 - **Workshops and Tutorials submission deadline:** April 3, 2023. Notification May 3, 2023.
@@ -15,8 +17,8 @@ The focus of our 2023 conference is ***"The role of Ontologies in Artificial Int
 <!-- ## Conference Dates 
 - **August 28th to September 1st** (Monday-Friday) 
 - **Workshops**: August 28-30, 2023 (until noon of day 30) 
-- **Main conference**: August 30 (afternoon) - September 01, 2023 
-- **Workshops and tutorials take place on site in conjunction with [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)** -->
+- **Main conference**: August 30 (afternoon) - September 01, 2023 -->
+- **Workshops and tutorials take place on site in conjunction with [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)** 
 
 ## Journal of Biomedical Semantics ICBO Thematic Series Option
 
