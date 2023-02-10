@@ -7,7 +7,7 @@ The focus of our 2023 conference is ***"The role of Ontologies in Artificial Int
 <br/> 
 <br/>  
 # Important dates: 
-<space><space>- &nbsp;&nbsp;&nbsp;&nbsp; **Conference Dates**:  August 28th to September 1st (Monday-Friday) 
+<space><space> - &nbsp;&nbsp;&nbsp;&nbsp; **Conference Dates**:  August 28th to September 1st (Monday-Friday) 
 - &nbsp;&nbsp;&nbsp;&nbsp; **Workshops/tutorials**: August 28-30, 2023 (until noon of day 30) 
 - **Main conference:** August 30 (afternoon) - September 01, 2023 
 - **Journal Track submission deadline:** March 31st. 
