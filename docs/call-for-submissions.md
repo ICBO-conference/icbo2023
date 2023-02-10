@@ -4,11 +4,19 @@
 
 The focus of our 2023 conference is ***"The role of Ontologies in Artificial Intelligence and Machine Learning"***.
 
-## Conference Dates 
+# Important dates: 
+- **Conference Dates**:  August 28th to September 1st (Monday-Friday)
+- **Workshops/tutorials**: August 28-30, 2023 (until noon of day 30)
+- **Main conference:** August 30 (afternoon) - September 01, 2023
+- **Journal Track submission deadline:** March 31st.
+- **Workshops and Tutorials submission deadline:** April 3, 2023. Notification May 3, 2023.
+- **Software demo submission deadline:** June 15, 2023. Notification: June 29, 2023.
+- **ICBO Conference Papers and Abstracts deadline:** May 31, 2023. Notification June 29, 2023.
+<!-- ## Conference Dates 
 - **August 28th to September 1st** (Monday-Friday) 
 - **Workshops**: August 28-30, 2023 (until noon of day 30) 
 - **Main conference**: August 30 (afternoon) - September 01, 2023 
-- **Workshops and tutorials take place on site in conjunction with [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)**
+- **Workshops and tutorials take place on site in conjunction with [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)** -->
 
 ## Journal of Biomedical Semantics ICBO Thematic Series Option
 
@@ -22,8 +30,8 @@ The focus of our 2023 conference is ***"The role of Ontologies in Artificial Int
 ## Call for Workshops, Tutorials and Demos
 - *Workshops* and *Tutorials* submission deadline* **April 3**, 2023. Notification **May 3**, 2023. 
 - *Software demo* submission deadline: **June 15**, 2023. Notification: **June 29**, 2023. 
-- **Submission link:** [https://forms.gle/eHti7ERJgKV9joUV6](https://forms.gle/eHti7ERJgKV9joUV6) - submission will use the *Google Form*
-
+- **Submission link:** [http://bit.ly/3JXYPi5](http://bit.ly/3JXYPi5) - submission will use the *Google Form*
+<!-- https://forms.gle/eHti7ERJgKV9joUV6 -->
 - **Workshops and tutorials** could be Half or Full day (3 and 6 hours respectively)
 ### Workshops
 We are specifically looking for following topics for **workshops**:
@@ -35,6 +43,7 @@ We are specifically looking for following topics for **workshops**:
 - Infectious and immune-mediated disease 
 - FAIR ontology harmonization 
 - Ontology Governance and Interoperability 
+- Other topics are welcome 
 
 ### Tutorials
 We are specifically looking for following topics for ***tutorials***:
