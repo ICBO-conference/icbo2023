@@ -3,9 +3,9 @@
 # <img align="left" src="../images/icbo2023_logo.jpg" width="25%" /> ICBO 2023 Call For Submissions
 
 The focus of our 2023 conference is ***"The role of Ontologies in Artificial Intelligence and Machine Learning"***. 
-<br/> 
-<br/> 
-<br/>  
+   
+
+   
 # Important dates: 
 - **Conference Dates**: August 28th to September 1st (Monday-Friday) 
 - **Workshops/tutorials**: August 28-30, 2023 (until noon of day 30) 
