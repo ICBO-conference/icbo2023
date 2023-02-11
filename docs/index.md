@@ -10,7 +10,8 @@ Theme of ICBO 2023: **"The role of Ontologies in Artificial Intelligence and Mac
 - **Main conference**: August 30 (afternoon) - September 01, 2023 
 
 ## [Keynote Speakers](keynote-speakers.md)
-- [Barry Smith](https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/smith-b.html) - University at Buffalo 
+- [Barry Smith](https://www.buffalo.edu/cas/philosophy/faculty/faculty_directory/smith-b.html) - University at Buffalo  
+- [Maurício Barcellos](https://mba.eci.ufmg.br) - Federal University of Minas Gerais  
 
 ## Location 
 
