@@ -12,7 +12,7 @@ Barry Smith, the Founder of the ICBO conference series, is one of the most widel
   
 ## Maurício Barcellos   
 
-<img src='../images/mbar.png' align='left' style='margin:10px 20px 0px 0px' /> 
+<img src='../images/mbar.jpg' align='left' style='margin:10px 20px 0px 0px' /> 
 
 A BFO-based Framework for healthcare corporations  
 
