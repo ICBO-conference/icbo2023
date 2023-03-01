@@ -50,16 +50,16 @@
   <a href="https://ncor-brasil.org/sobre-o-ncor-br/"></a><br>
   <img src="../images/nCorBR.jpeg" width="10%" />
   <br>
-<i>Brazilian National Center for Ontological Research - <a href="https://ncor-brasil.org/sobre-o-ncor-br/">NCOR-BR</i></a><br>
-</p>
-
-## Organization Support
+<i>Brazilian National Center for Ontological Research - <a href="https://ncor-brasil.org/sobre-o-ncor-br/">NCOR-BR</i></a>
+</p>  
+  
+## Organization Support  
 <p align="center">
   <a href="https://alma.hsl.org.br/"><i>Alma Sírio-Libanês</i></a><br>
   <img src="../images/alma04.png" width="30%" />
 </p>
 
-## Volunteer Support
+## Volunteer Support  
 * Alexander Diehl (University at Buffalo, USA)
 * Yongqun "Oliver" He (University of Michigan, Ann Arbor, MI, USA)
 * Marcia Ito (FATEC-SP) 
