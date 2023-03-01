@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/cabecalhoHome.png" width="100%" />
+</p>
+
 # ICBO Conference Proceeding Publication Requirements
 
 **ICBO conference proceedings are often published in CEUR. Below, we have included language for the requirements to do this. Edit the content indicated by '-> <-' to suite your specific conference.**   

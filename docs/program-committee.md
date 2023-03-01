@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/cabecalhoHome.png" width="100%" />
+</p>
+
 # Program Committee
 
 Invitations will be sent soon.

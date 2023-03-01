@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/cabecalhoHome.png" width="100%" />
+</p>
+
 # ICBO Hotel Options
 
 We are working to define partner hotels for our conference. We will announce the options shortly.
