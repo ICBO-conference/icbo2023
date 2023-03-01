@@ -39,7 +39,13 @@
 <p align="center">
   <a href="http://www.fci.unb.br/"><i>Faculty of Information Science at the University of Brasilia</i></a><br>
   <img src="../images/unb_fci_extenso_logo.png" width="30%" />
-<br><i>Brazilian National Center for Ontological Research - <a href="ncor-brasil.org/">NCOR-BR</i></a><br>
+</p>
+<p>
+
+<p align="center">
+  <a href="https://ncor-brasil.org/sobre-o-ncor-br/"><i>Faculty of Information Science at the University of Brasilia</i></a><br>
+  <img src="../images/nCorBR.jpeg" width="30%" />
+<i>Brazilian National Center for Ontological Research - <a href="https://ncor-brasil.org/sobre-o-ncor-br/">NCOR-BR</i></a><br>
 </p>
 
 ## Organization Support

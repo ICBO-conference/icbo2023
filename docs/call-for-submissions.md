@@ -1,6 +1,11 @@
 <!-- # ICBO 2023 Call For Submissions -->
 
-# <img align="left" src="../images/icbo2023_logo.jpg" width="25%" /> ICBO 2023 Call For Submissions
+<!-- # <img align="left" src="../images/icbo2023_logo.jpg" width="25%" /> ICBO 2023 Call For Submissions -->
+
+<p align="center">
+  <img src="./images/cabecalhoCFP.png" width="100%" />
+</p>
+
 
 The focus of our 2023 conference is ***"The role of Ontologies in Artificial Intelligence and Machine Learning"***. 
 <br />   

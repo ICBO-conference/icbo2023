@@ -1,8 +1,15 @@
 <!-- # ICBO 2023: International Conference on Biomedical Ontology -->
-# <img align="left" src="./images/icbo2023_logo.jpg" width="25%" /> 14ª International Conference on Biomedical Ontology
+<!-- # <img align="left" src="./images/icbo2023_logo.jpg" width="25%" /> 14ª International Conference on Biomedical Ontology -->
+<p align="center">
+  <img src="./images/cabecalhoHome.png" width="100%" />
+</p>
 Theme of ICBO 2023: **"The role of Ontologies in Artificial Intelligence and Machine Learning"**.
 
-- ICBO 2023 will be held with the 16th Seminar on Ontology Research in Brazil – [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/)
+- ICBO 2023 will be held with the 16th Seminar on Ontology Research in Brazil – [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/) 
+
+<p align="center">
+  <a href="https://www.inf.ufrgs.br/ontobras/"> <img src="./images/ontobras.png" width="80%" /> </a>
+</p>
 
 ## Conference Dates
 - **August 28th to September 1st** (Monday-Friday)
@@ -15,7 +22,7 @@ Theme of ICBO 2023: **"The role of Ontologies in Artificial Intelligence and Mac
 
 ## Location 
 
-The **14ª International Conference of Biomedical Ontology (ICBO 2023)** will be held <!-- in 2023 --> at ***Finatec*** building, located at the *Campus Darcy Ribeiro of University of Brasilia*, <!-- [UNB](https://international.unb.br) --> Brasilia, DF, Brazil.
+The **14th International Conference of Biomedical Ontology (ICBO 2023)** will be held <!-- in 2023 --> at the *Campus Darcy Ribeiro of University of Brasilia*, <!-- [UNB](https://international.unb.br) --> Brasilia, DF, Brazil. 
 
 <!-- ![UnB](./images/unb-1.jpg) -->
 
@@ -25,19 +32,16 @@ The **14ª International Conference of Biomedical Ontology (ICBO 2023)** will be
   Campus Universitário Darcy Ribeiro, Brasília-DF | Postal Code 70910-900
 </p>
 
-**Note:** This meeting will be held in a hybrid format that includes both in-person and virtual participation.
+<!-- **Note:** This meeting will be held in a hybrid format that includes both in-person and virtual participation. -->
 
 ## Venue
 <!-- [UnB](https://international.unb.br), University of Brasilia -->
 <pre align="center">
-<a href="https://www.google.com.br/maps/place/Finatec/@-15.7732111,-47.8753304,2225m/data=!3m1!1e3!4m6!3m5!1s0x0:0xbfea6f298131ee30!4b1!8m2!3d-15.7732111!4d-47.8709529!5m1!1e4?hl=pt-BR" target="_blank">Finatec Address:</a>
+<a href="https://www.google.com.br/maps/place/Universidade+de+Bras%C3%ADlia+-+Campus+Darcy+Ribeiro/@-15.7658436,-47.8721751,15z/data=!4m6!3m5!1s0x935a3bba813cf97b:0xed2c4932e4690218!8m2!3d-15.7658436!4d-47.8721751!16s%2Fg%2F11c0q0q13j?hl=pt-BR" target="_blank">UnB address</a>
 
-Av. L3 Norte - Ed. Finatec
-Asa Norte - Brasília-DF
-Postal Code: 70910-900
 Campus Darcy Ribeiro
+Asa Norte - Brasília-DF
 </pre>
-
 
 ## Conference Videos
 
