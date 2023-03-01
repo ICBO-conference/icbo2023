@@ -44,7 +44,6 @@
   <a href="http://www.fci.unb.br/"><i>Faculty of Information Science at the University of Brasilia</i></a><br>
   <img src="../images/unb_fci_extenso_logo.png" width="30%" />
 </p>
-<p>
 
 <p align="center">
   <a href="https://ncor-brasil.org/sobre-o-ncor-br/"></a><br>
@@ -53,7 +52,9 @@
 <i>Brazilian National Center for Ontological Research - <a href="https://ncor-brasil.org/sobre-o-ncor-br/">NCOR-BR</i></a>
 </p>  
   
+
 ## Organization Support  
+
 <p align="center">
   <a href="https://alma.hsl.org.br/"><i>Alma Sírio-Libanês</i></a><br>
   <img src="../images/alma04.png" width="30%" />
