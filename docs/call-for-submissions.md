@@ -3,7 +3,7 @@
 <!-- # <img align="left" src="../images/icbo2023_logo.jpg" width="25%" /> ICBO 2023 Call For Submissions -->
 
 <p align="center">
-  <img src="./images/cabecalhoCFP.png" width="100%" />
+  <img src="../images/cabecalhoCFP.png" width="100%" />
 </p>
 
 
