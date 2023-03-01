@@ -48,7 +48,8 @@
 
 <p align="center">
   <a href="https://ncor-brasil.org/sobre-o-ncor-br/"><i>Faculty of Information Science at the University of Brasilia</i></a><br>
-  <img src="../images/nCorBR.jpeg" width="30%" />
+  <img src="../images/nCorBR.jpeg" width="10%" />
+  <br>
 <i>Brazilian National Center for Ontological Research - <a href="https://ncor-brasil.org/sobre-o-ncor-br/">NCOR-BR</i></a><br>
 </p>
 
