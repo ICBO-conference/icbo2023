@@ -1,6 +1,6 @@
 <!-- # Organization – ICBO 2023 <img align="right" src="./images/icbo2023_logo.png" width="30%" /> -->
 <p align="center">
-  <img src="./images/cabecalhoHome.png" width="100%" />
+  <img src="../images/cabecalhoHome.png" width="100%" />
 </p>
 
 # <img align="left" src="../images/icbo2023_logo.jpg" width="25%" /> Organization – ICBO 2023

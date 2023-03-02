@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/cabecalhoHome.png" width="100%" />
+  <img src="../images/cabecalhoHome.png" width="100%" />
 </p>
 
 # ICBO Schedule
