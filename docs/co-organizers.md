@@ -27,10 +27,11 @@
 ## Proceedings Chairs  
 * Jeanne Louize Emygdio (Pontifical Catholic University of Minas Gerais, Brazil)
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
-
+  
 ## Publicity Chairs 
 * Amanda Damasceno de Souza (FUMEC University, Brazil)  
-
+* Edcleyton Bruno Fernandes da Silva (Instituto Federal de Alagoas)  
+  
 ## Website Chair 
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
 * William Duncan (University of Florida, USA)
