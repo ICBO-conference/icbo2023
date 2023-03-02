@@ -30,7 +30,7 @@
   
 ## Publicity Chairs 
 * Amanda Damasceno de Souza (FUMEC University, Brazil)  
-* Edcleyton Bruno Fernandes da Silva (Federal Institute of Alagoas)  
+* Edcleyton Bruno Fernandes da Silva (Federal Institute of Alagoas, Brazil)  
   
 ## Website Chair 
 * Eduardo Ribeiro Felipe (Federal University of Itajubá, Brazil)
