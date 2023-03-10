@@ -14,7 +14,7 @@
 
 ## Program Committee Chairs
 * Luis M. Machado (Centre for Interdisciplinary Studies, University of Coimbra) 
-* Mathias Brochhausen (University of Arkansas for Medical Sciences, USA) 
+
 
 ## Workshops/tutorial Chairs
 * Asiyah Lin (National Institutes of Health (NIH), USA)
