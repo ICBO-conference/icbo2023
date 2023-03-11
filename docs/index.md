@@ -8,7 +8,7 @@ Theme of ICBO 2023: **"The role of Ontologies in Artificial Intelligence and Mac
 - ICBO 2023 will be held with the 16th Seminar on Ontology Research in Brazil – [ONTOBRAS 2023](https://www.inf.ufrgs.br/ontobras/) 
 
 <p align="center">
-  <a href="https://www.inf.ufrgs.br/ontobras/"> <img src="./images/ontobras.png" width="40%" /> </a>
+  <a href="https://www.inf.ufrgs.br/ontobras/"> <img src="./images/ontobras.png" width="30%" /> </a>
 </p>
 
 ## Conference Dates
