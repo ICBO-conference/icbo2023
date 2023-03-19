@@ -4,7 +4,7 @@
 </p>
 
 <!-- <img align="left" src="../images/icbo2023_logo.jpg" width="25%" />  -->
-# Organization – ICBO 2023
+# Organization
 
 ## General Chair
 * Fernanda Farinelli (University of Brasília, Brazil)
@@ -14,7 +14,6 @@
 
 ## Program Committee Chairs
 * Luis M. Machado (Centre for Interdisciplinary Studies, University of Coimbra) 
-
 
 ## Workshops/tutorial Chairs
 * Asiyah Lin (National Institutes of Health (NIH), USA)
@@ -42,24 +41,21 @@
 ## Administrative Support
 <!-- * [*Faculty of Information Science at the University of Brasilia*](http://www.fci.unb.br/)<br> -->
 <!-- ![UnB](./images/unb_fci_extenso_logo.png) -->
-<p align="center">
-  <a href="http://www.fci.unb.br/"><i>Faculty of Information Science at the University of Brasilia</i></a><br>
-  <img src="../images/unb_fci_extenso_logo.png" width="30%" />
-</p>
 
 <p align="center">
-  <a href="https://ncor-brasil.org/sobre-o-ncor-br/"></a><br>
-  <img src="../images/nCorBR.jpeg" width="10%" />
-  <br>
-<i>Brazilian National Center for Ontological Research - <a href="https://ncor-brasil.org/sobre-o-ncor-br/">NCOR-BR</i></a>
-</p>  
-  
+      <a href="http://www.fci.unb.br/"><img src="../images/fci_unb_logo.png" width="30%" /></a><br>
+</p>
+<p align="center">
+  <a href="https://ncor-brasil.org/sobre-o-ncor-br/"><img src="../images/nCorBR.jpeg" width="10%" /></a><br>
+</p>
 
 ## Organization Support  
 
 <p align="center">
-  <a href="https://alma.hsl.org.br/"><i>Alma Sírio-Libanês</i></a><br>
-  <img src="../images/alma04.png" width="30%" />
+  <a href="https://alma.hsl.org.br/"> <img src="../images/alma04.png" width="30%" /></a><br>
+</p>
+<p align="center">
+  <a href="https://www.biocuration.org/"> <img src="../images/ISB_logo.png" width="30%" /></a><br>
 </p>
 
 ## Volunteer Support  
