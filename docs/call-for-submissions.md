@@ -80,12 +80,13 @@ Specifically looking for demos on ontology supported data curation, ontology sup
 - Submission link: [https://easychair.org/conferences/?conf=icbo2023](https://easychair.org/conferences/?conf=icbo2023)
 
 ### ISB Travel Award
-The International Society for Biocuration (ISB) is offering a travel fellowship to ICBO in Brazil.
-- Travel award to go to Brazil for presenting a paper/poster in the area of biocuration.
-- Travel award amount: up to 1500 CHF (Swiss Franc).
-- Award for early career researchers (students and postdocs) with interest in the area of biocuration.
-- Type of presentation priority: 1) papers, 2) poster.
-- Recipients must acknowledge the travel award from ISB during the presentation.
+The International Society for Biocuration (ISB) is offering a travel fellowship to ICBO in Brazil.   
+
+- Travel award to go to Brazil for presenting a paper/poster in the area of biocuration.  
+- Travel award amount: up to 1500 CHF (Swiss Franc).  
+- Award for early career researchers (students and postdocs) with interest in the area of biocuration.  
+- Type of presentation priority: 1) papers, 2) poster.  
+- Recipients must acknowledge the travel award from ISB during the presentation.  
 
 <!-- **Note**: Papers presentations can be held in-person or virtual/online format. -->
 
