@@ -82,8 +82,8 @@ Specifically looking for demos on ontology supported data curation, ontology sup
 ### ISB Travel Award
 The International Society for Biocuration (ISB) is offering a travel fellowship to ICBO in Brazil.   
 
-- Travel award to go to Brazil for presenting a paper/poster in the area of biocuration.  
-- Travel award amount: up to 1500 CHF (Swiss Franc).  
+- The travel award will help fund travel to Brazil for presenting a paper/poster relevant to the area of biocuration.  
+- Travel award amount: up to 1500 CHF (Swiss Francs) (approximately $1600 USD or 1500 Euros).  
 - Award for early career researchers (students and postdocs) with interest in the area of biocuration.  
 - Type of presentation priority: 1) papers, 2) poster.  
 - Recipients must acknowledge the travel award from ISB during the presentation.  
