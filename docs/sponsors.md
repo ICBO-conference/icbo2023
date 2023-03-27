@@ -8,17 +8,15 @@ Sponsorships from companies and organizations help to defray some of our costs a
 
 ## Sponsorship
 We gratefully accept sponsorships from private companies and organizations. We acknowledge our sponsors before, during and after the event in multiple ways:
+
 * We list our sponsors on the ICBO and ONTOBRAS websites.
 * Sponsors are thanked and named in the opening/closing slides during the meeting.
 * The sponsors are thanked in selected emails to our mailing list, tweets and blog posts (with your logo) that go out before, during and after the event.
 
-Take a look in our [Sponship Prospectus](https://github.com/ICBO-conference/icbo2023/blob/main/docs/SponsorICBO2023.pdf).
-
-Take a look in our <a href="https://icbo-conference.github.io/icbo2023/docs/SponsorICBO2023.pdf" target="_blank">Sponship Prospectus</a>.
+Take a look in our <a href="https://icbo-conference.github.io/icbo2023/SponsorICBO2023.pdf" target="_blank">Sponship Prospectus</a>.
 
 
 If you’re interested in sponsoring ICBO 2023 co-located with ONTOBRAS 2023, please contact us at [icbo2023@gmail.com](mailto:icbo2023@gmail.com?subject=[ICBO2023]%20Sponsorship).
-
 
 ## Meet our attendees
 
