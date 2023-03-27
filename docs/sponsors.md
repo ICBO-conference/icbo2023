@@ -21,6 +21,7 @@ If you’re interested in sponsoring ICBO 2023 co-located with ONTOBRAS 2023, pl
 ## Meet our attendees
 
 ICBO/ONTOBRAS participants come from a wide variety of research environments and backgrounds:
+
 * Professors and researchers, students, and post-docs
 * Librarians, information analysts, information scientists
 * Medical doctors and other healthcare professionals
