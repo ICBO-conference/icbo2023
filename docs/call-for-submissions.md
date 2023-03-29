@@ -16,7 +16,7 @@ The focus of our 2023 conference is ***"The role of Ontologies in Artificial Int
   
 - **Main conference:** August 30 (afternoon) - September 01, 2023 
 - **Journal Track submission deadline:** March 31st. 
-- **Workshops and Tutorials submission deadline:** April 3, 2023. Notification May 3, 2023 
+- **Workshops and Tutorials submission deadline:** ~~April 3~~ <span style="color: red">April 10</span>, 2023. Notification May 3, 2023 
 - **Software demo submission deadline:** June 15, 2023. Notification: June 29, 2023 
 - **ICBO Conference Papers and Abstracts deadline:** May 31, 2023. Notification June 29, 2023 
   
