@@ -36,7 +36,7 @@ The focus of our 2023 conference is ***"The role of Ontologies in Artificial Int
 - Journal track manuscripts are submitted directly to the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/) following the journal submission [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines). **Authors must select the ICBO thematic series during the submission process.**
 
 ## Call for Workshops, Tutorials and Demos
-- *Workshops* and *Tutorials* submission deadline* ~~**April 3**~~ <span style="color: red">April 10</span>, 2023. Notification **May 3**, 2023.  
+- *Workshops* and *Tutorials* submission deadline <span style="text-decoration: line-through;">April 3</span> <span style="color: red">April 10</span>, 2023. Notification **May 3**, 2023.  
 - *Software demo* submission deadline: **June 15**, 2023. Notification: **June 29**, 2023.  
 - **Submission link:** [http://bit.ly/3JXYPi5](http://bit.ly/3JXYPi5) - submission will use the *Google Form*  
 <!-- https://forms.gle/eHti7ERJgKV9joUV6 --> 
