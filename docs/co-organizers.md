@@ -13,7 +13,9 @@
 * Dalton Lopes Martins (University of Brasilia, Brazil)
 
 ## Program Committee Chairs
-* Luis M. Machado (Centre for Interdisciplinary Studies, University of Coimbra) 
+* Jeanne Louize Emygdio (Pontifical Catholic University of Minas Gerais, Brazil)
+* Christiano Pessanha (Federal Fluminense University, Brazil)
+* Luis M. Machado (Centre for Interdisciplinary Studies, University of Coimbra)
 
 ## Workshops/tutorial Chairs
 * Asiyah Lin (National Institutes of Health (NIH), USA)
