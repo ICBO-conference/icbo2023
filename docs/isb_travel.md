@@ -13,7 +13,7 @@ The International Society for Biocuration (ISB) is offering a travel fellowship 
 - Recipients must acknowledge the travel award from ISB during the presentation.
 
 <p align="center">
-  <a href="https://alma.hsl.org.br/"> <img src="../images/alma04.png" width="30%" /></a><br>
+  <a href="https://www.biocuration.org/"> <img src="../images/ISB_logo.png" width="30%" /></a><br>
 </p>
 
 ## Application overview
