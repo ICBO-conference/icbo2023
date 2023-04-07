@@ -13,8 +13,7 @@ We gratefully accept sponsorships from private companies and organizations. We a
 * Sponsors are thanked and named in the opening/closing slides during the meeting.
 * The sponsors are thanked in selected emails to our mailing list, tweets and blog posts (with your logo) that go out before, during and after the event.
 
-Take a look in our <a href="https://icbo-conference.github.io/icbo2023/SponsorICBO2023.pdf" target="_blank">Sponship Prospectus</a>.
-
+Take a look in our <a href="https://icbo-conference.github.io/icbo2023/SponsorICBO2023.pdf" target="_blank">Sponsorship Prospectus</a>.
 
 If you’re interested in sponsoring ICBO 2023 co-located with ONTOBRAS 2023, please contact us at [icbo2023@gmail.com](mailto:icbo2023@gmail.com?subject=[ICBO2023]%20Sponsorship).
 
@@ -30,4 +29,8 @@ ICBO/ONTOBRAS participants come from a wide variety of research environments and
 * Data producers and power users of ontologies
 * Industry and business practitioners and scientists
 
-![UnB](./images/unb_fci_extenso_logo.png) 
+##
+<!-- ![UnB](./images/unb_fci_extenso_logo.png) --> 
+<p align="center">
+  <img src="../images/unb_fci_extenso_logo.png" height="80" />
+</p>
