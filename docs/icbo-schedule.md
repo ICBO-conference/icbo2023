@@ -6,4 +6,9 @@
 
 We are working to define.
 
-![UnB](./images/unb_fci_extenso_logo.png) 
+
+##
+<!-- ![UnB](./images/unb_fci_extenso_logo.png) --> 
+<p align="center">
+  <img src="../images/unb_fci_extenso_logo.png" height="80" />
+</p> 
