@@ -36,10 +36,12 @@ The International Society for Biocuration (ISB) is offering a travel fellowship 
 ## Eligibility requirements
 
 1. Applicant must be listed as an author or co-author on the original submission of an accepted ICBO 2023 (Submitters to the "Call for Late Posters" are not eligible for fellowship funding.)
-2. Applicant must be (at least one of)
-   - registered in a degree program (undergraduate or graduate) or as a *postdoctoral research fellow at an accredited educational institution at the time of the conference;
+2. Applicant must be (at least one of):
+
+   - registered in a degree program (undergraduate or graduate) or as a postdoctoral research fellow at an accredited educational institution at the time of the conference;
    - early career researcher (low - Upper-Middle Economic countries);
    - recognized community members contribute significantly for the community without a formal funding mechanism.
+
 3. Applicant must be prepared to register for ICBO 2023 by July 20, 2023, and plan to attend all five conference days. If attendance at the conference is dependent on receipt of travel fellowship funds, please do not register until after the notification of travel fellowship funding.
 
 ## Fellowship Committee
