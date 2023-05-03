@@ -4,6 +4,8 @@
 
 # Keynote Speakers
 
+We are delighted to announce that our keynote speakers for ICBO 2023 will be:
+
 ## Barry Smith 
 
 <img src='../images/BS-aruba1-2021.jpg' align='left' style='margin:10px 20px 0px 0px' /> 
@@ -21,6 +23,9 @@ Barry Smith, the Founder of the ICBO conference series, is one of the most widel
 A BFO-based Framework for healthcare corporations  
 
 PhD in Information Science with Post-doctorate at the State University of New York (US), researcher at the Ontology Research Group (US), leader of the ReCol group (BR), CNPq Level 2 Productivity Scholar. Mauricio is currently a professor at the Federal University of Minas Gerais (UFMG) where he conducts research on Knowledge Representation and Applied Ontology. He is the author of more than 200 national and international publications on the subject.  
+
+## Renata Guizzardi
   
+
 
 ![UnB](./images/unb_fci_extenso_logo.png)  
