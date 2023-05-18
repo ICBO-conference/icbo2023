@@ -14,7 +14,7 @@ To find out if you need a visa to travel to Brazil, click [here](https://www.gov
 Itamaraty (the Ministry of Foreign Affairs) is the body of the Brazilian government responsible for granting visas, which occurs through the Embassies, General Consulates, Consulates and Vice consulates of Brazil abroad. Here you can visit the Ministry of Foreign Affairs visa application [here](https://formulario-mre.serpro.gov.br/sci/pages/web/ui/#/instrucoes-iniciais-visto). 
 
 ## Airport 
-* The Presidente Juscelino Kubitschek International [Airport](Link https://www.bsb.aero/) (IATA: BSB) is the only international airport serving Brasília. 
+* The Presidente Juscelino Kubitschek International [Airport](https://www.bsb.aero/) (IATA: BSB) is the only international airport serving Brasília. 
 * Most flights to Brazil go to either Rio de Janeiro or São Paulo, where you can get a connection to Brasilia.
 
 ### Airlines
