@@ -73,9 +73,9 @@ Specifically looking for demos on ontology supported data curation, ontology sup
 <!-- **Note:** Workshops, Tutorials, and Demos can be held in a person.   -->
 
 ## Call for ICBO Conference Papers and Abstracts 
-- Full length papers (6-10 pages) due **May 31**, notification **June 29**.
-- Short papers up to 5 pages, due **May 31**, notification **June 29**.
-- Poster Abstracts: 1 page extended abstract format, with limited references, due **May 31**, rolling notification starting **June 29**.
+- Full length papers (6-10 pages) due **<del>May 31</del> June 7**, notification **<del>June 29</del> July 1**.
+- Short papers up to 5 pages, due **<del>May 31</del> June 7**, notification **<del>June 29</del> July 1**.
+- Poster Abstracts: 1 page extended abstract format, with limited references, due **<del>May 31</del> June 7**, rolling notification starting **June 29**.
 - **Note:** Posters session will be just in-person. 
 - Submission link: [https://easychair.org/conferences/?conf=icbo2023](https://easychair.org/conferences/?conf=icbo2023)
 
